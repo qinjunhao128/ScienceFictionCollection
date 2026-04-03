@@ -21,6 +21,7 @@
 - 009 - Michael Swanwick (迈克尔·斯万维克) 
 - 010 - 王晋康
 - 011 - Andy Weir(安迪·威尔)
+- 012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)
 
 ## 目前作品：
 <div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
@@ -252,6 +253,9 @@
 - [2001]《替天行道》.txt _[72.1KB]_
 ### 011 - Andy Weir(安迪·威尔)
 - [2021]《挽救计划》.epub _[676.96KB]_
+### 012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)
+- 0-亚瑟·克拉克汇总.md _[2.14KB]_
+- [1951]《太空序曲》.txt _[200.06KB]_
 
 
 ## Star History
